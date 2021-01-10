@@ -1,0 +1,26 @@
+{
+  "name": "vue3-svg-icons",
+  "version": "0.1.0",
+  "description": "Vue3 and Vue2 compatible module for loading SVGs from a number of libraries, or local files. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrkristian/vue3-svg-icons.git"
+  },
+  "keywords": [
+    "vue3",
+    "vue2",
+    "svg",
+    "icons",
+    "component"
+  ],
+  "author": "Kristian Robertsen",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/hrkristian/vue3-svg-icons/issues"
+  },
+  "homepage": "https://github.com/hrkristian/vue3-svg-icons#readme"
+}
